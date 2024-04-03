@@ -1,6 +1,7 @@
-##MJML
+ICCWIN Monorepo
 
-
--sudo npm install -g mjml
-
--mjml -r index.mjml -o index.html                                          
+- Nuxt JS
+- PNPM Monorepo (Workspaces)
+- Tailwind CSS
+- Pinia (Vue 3 Store)
+- Nuxt UI (Tailwind CSS UI Components)                                       
